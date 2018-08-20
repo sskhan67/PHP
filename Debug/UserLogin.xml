@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <UserLogin>
+    <uname>user1</uname>
+    <upwd>pass1</upwd>
+  </UserLogin>
+  <UserLogin>
+    <uname>user2</uname>
+    <upwd>pass2</upwd>
+  </UserLogin>
+</NewDataSet>
